@@ -3,5 +3,7 @@
   "description": "La collection officielle des Dinos... mais sur le devnet!",
   "website": "https://dinovox.com",
   "twitter": "https://twitter.com/TheDinoVox",
-  "discord": "https://discord.com/invite/thedinovox"
+  "discord": "https://discord.com/invite/thedinovox",
+  "logo": "logo.jpg",
+  "banner": "banner.jpg"
 }

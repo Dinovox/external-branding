@@ -25,7 +25,8 @@ Pour chaque collection (identifiée par son ID, ex: `DINO-123456`), créez un do
 
 ## 3. Fichier de Données (Optionnel mais recommandé)
 
-Pour externaliser aussi les textes, ajoutez un fichier `info.json` :
+Pour externaliser aussi les textes, ajoutez un fichier `info.json`.
+Par défaut, le système cherche `logo.png` et `banner.png`. Si vous utilisez d'autres formats (ex: .webp, .jpg), vous devez les spécifier :
 
 ```json
 {
@@ -33,6 +34,8 @@ Pour externaliser aussi les textes, ajoutez un fichier `info.json` :
   "description": "La collection officielle des Dinos...",
   "website": "https://dinovox.com",
   "twitter": "https://twitter.com/dinovox",
-  "discord": "https://discord.gg/..."
+  "discord": "https://discord.gg/...",
+  "logo": "logo.webp", // Optionnel : ne mettre que si différent de logo.png
+  "banner": "banner.jpg" // Optionnel : ne mettre que si différent de banner.png
 }
 ```
