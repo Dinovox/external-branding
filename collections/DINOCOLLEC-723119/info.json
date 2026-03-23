@@ -1,9 +1,8 @@
 {
-  "name": "",
-  "description": "",
+  "name": "DINOCOLLEC",
+  "description": "Collectionne les éditions spéciales représentant les partenariats et les collaborations de DinoVox.",
   "website": "https://dinovox.com",
   "twitter": "https://twitter.com/TheDinoVox",
   "discord": "https://discord.com/invite/thedinovox",
-  "banner": "",
   "tags": ["DinoVox"]
 }
