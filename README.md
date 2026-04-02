@@ -33,7 +33,7 @@ Par défaut, le système cherche `logo.webp` et `banner.webp`. Si vous utilisez 
   "website": "https://dinovox.com",
   "twitter": "https://twitter.com/dinovox",
   "discord": "https://discord.gg/...",
-  "logo": "logo.jpg", // Optionnel : ne mettre que si différent de logo.webp
-  "banner": "banner.jpg" // Optionnel : ne mettre que si différent de banner.webp
+  "logo": "logo.jpg",
+  "banner": "banner.jpg"
 }
 ```

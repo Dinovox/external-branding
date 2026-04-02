@@ -4,5 +4,7 @@
   "website": "https://dinovox.com",
   "twitter": "https://twitter.com/TheDinoVox",
   "discord": "https://discord.com/invite/thedinovox",
-  "tags": ["DinoVox"]
+  "tags": ["DinoVox"],
+  "banner": "banner.jpg",
+  "logo": "logo.jpg"
 }
